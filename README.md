@@ -3,3 +3,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Examples on how Reducers work in JavaScript (including tests). Read more about it. And read more about testing in Node.js.
+
+
+
+
+cd javascript-reducer
+npm install
+npm test
